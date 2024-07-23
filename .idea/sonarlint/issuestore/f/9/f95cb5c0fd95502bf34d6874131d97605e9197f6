@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8ø‚ÿ£†2
+D
+java:S1659	""Declare "num2" on a separate line.(ÒôÙæùÿÿÿÿ8‡ƒÿ£†2
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ŽÛÖ¡ùÿÿÿÿ8‡ƒÿ£†2
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(îËªìúÿÿÿÿ8‡ƒÿ£†2
+k
+java:S3252+"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ8‡ƒÿ£†2
+n	java:S128’"LEnd this switch case with an unconditional break, return or throw statement.(×Æ“øþÿÿÿÿ8—ƒÿ£†2
+=	java:S131""Add a default case to this switch.(î­™o8—ƒÿ£†2
